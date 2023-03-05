@@ -1,3 +1,4 @@
+<!--
 <table>
   <tr>
     <td>
@@ -8,10 +9,10 @@
      </td>
   </tr>
  </table>
- 
+ -->
  
 <p align="justify"> 
-Welcome to my GitHub Page. I am Thunder Carver. This name represents the power and elegance and I use "thunder" to create my world.  As a computer engineering student, I learn new things about programming and share ideas to others, I have been studying deep learning for 3 years and try to apply it in various fields.
+Welcome to my GitHub Page. I am Thunder Carver. This name represents the power and elegance and I use "thunder" to create my world.  As a computer engineering student, I learn new things about programming and share ideas to others, I have been studying deep learning for 3 years and try to apply it in various fields. 
 </p>
 
 ## tools and technologies I am familiar with 
@@ -107,9 +108,6 @@ Welcome to my GitHub Page. I am Thunder Carver. This name represents the power a
 
 ##  Activity Graph 📈
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ThunderCarver's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ThunderCarver&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
-
-
-
 
 
 
