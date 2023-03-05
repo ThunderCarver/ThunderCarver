@@ -1,5 +1,16 @@
-<img src="https://github.com/ThunderCarver/ThunderCarver/blob/main/figure/throwthhunder.jpeg" width="128" height="128">
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/ThunderCarver/ThunderCarver/blob/main/figure/throwthhunder.jpeg" width="256" height="256">
+    </td>
+    <td>
+      <img src="https://github.com/ThunderCarver/ThunderCarver/blob/main/figure/abstract.jpg" width="256" height="256">
+     </td>
+  </tr>
+ </table>
+ 
+ 
 <p align="justify"> 
 Welcome to my GitHub Page. I am Thunder Carver. This name represents the power and elegance and I use "thunder" to create my world.  As a computer engineering student, I learn new things about programming and share ideas to others, I have been studying deep learning for 3 years and try to apply it in various fields.
 </p>
@@ -9,41 +20,40 @@ Welcome to my GitHub Page. I am Thunder Carver. This name represents the power a
 > Tools and technologies that I have worked with
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
+    <td align="center" width="128">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+        <br>Python
     </td>
-        <td align="center" width="96">
+    <td align="center" width="128">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
+        <br>Docker
     </td>
-    <td align="center" width="96">
+    <td align="center" width="128">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <br>C++
     </td>
-    <td align="center" width="96">
+    <td align="center" width="128">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
+        <br>GraphQL
     </td>
-    <td align="center" width="96">
+    <td align="center" width="128">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <br>Kubernetes
+        <br>Kubernetes
     </td>
   </tr>
+  
   <tr>
-    <td align="center" width="96"> 
+    <td align="center" width="128"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
+        <br>Git
     </td>
-    <td align="center" width="96">
+    <td align="center" width="128">
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
+        <br>Github
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="128">
         <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
-      <br>GitLab
+        <br>GitLab
     </td>
   </tr>
 </table>
