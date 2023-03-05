@@ -47,10 +47,7 @@ Welcome to my GitHub Page. I am Thunder Carver. This name represents the power a
     </td>
   </tr>
 </table>
-
-
-## Github stats 📊 
-
+ 
 
 <details>
   <summary>Activity Graph 📈</summary>
