@@ -1,15 +1,6 @@
-<!--
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/ThunderCarver/ThunderCarver/blob/main/figure/throwthhunder.jpeg" width="256" height="256">
-    </td>
-    <td>
-      <img src="https://github.com/ThunderCarver/ThunderCarver/blob/main/figure/abstract.jpg" width="256" height="256">
-     </td>
-  </tr>
- </table>
- -->
+
+<img src="https://github.com/ThunderCarver/ThunderCarver/blob/main/header.png">
+
  
 <p align="justify"> 
 Welcome to my GitHub Page. I am Thunder Carver. This name represents the power and elegance and I use "thunder" to create my world.  As a computer engineering student, I learn new things about programming and share ideas to others, I have been studying deep learning for 3 years and try to apply it in various fields. 
