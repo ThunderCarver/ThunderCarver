@@ -17,10 +17,6 @@ Welcome to my GitHub Page. I am Thunder Carver. This name represents the power a
 
 ## tools and technologies I am familiar with 
 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
 > Tools and technologies that I have worked with
 <table>
   <tr>
@@ -93,17 +89,6 @@ Welcome to my GitHub Page. I am Thunder Carver. This name represents the power a
     </td>
   </tr>
 </table>
- 
- 
-## Resource where I learn knowledge
-> good website for hands on
-
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
-
 
 
 ##  Activity Graph 📈
