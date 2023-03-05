@@ -1,4 +1,4 @@
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThunderCarver&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github.com/ThunderCarver/ThunderCarver/blob/main/header.png">
 
  
@@ -81,6 +81,7 @@ Welcome to my GitHub Page. I am Thunder Carver. This name represents the power a
   </tr>
 </table>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThunderCarver&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  Activity Graph 📈
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ThunderCarver's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ThunderCarver&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
