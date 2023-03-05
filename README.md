@@ -1,11 +1,10 @@
-<!-- ![arrow](https://github.com/ThunderCarver/ThunderCarver/blob/main/figure/throwthhunder.jpeg) -->
 <img src="https://github.com/ThunderCarver/ThunderCarver/blob/main/figure/throwthhunder.jpeg" width="128" height="128">
 
 <p align="justify"> 
 Welcome to my GitHub Page. I am Thunder Carver. This name represents the power and elegance and I use "thunder" to create my world.  As a computer engineering student, I learn new things about programming and share ideas to others, I have been studying deep learning for 3 years and try to apply it in various fields.
 </p>
 
-## tools and technologies I am familiar with ⚙️ 
+## tools and technologies I am familiar with 
 
 > Tools and technologies that I have worked with
 <table>
