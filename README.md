@@ -1,4 +1,3 @@
-
 <table>
   <tr>
     <td>
@@ -16,6 +15,10 @@ Welcome to my GitHub Page. I am Thunder Carver. This name represents the power a
 </p>
 
 ## tools and technologies I am familiar with 
+
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 > Tools and technologies that I have worked with
 <table>
@@ -40,6 +43,10 @@ Welcome to my GitHub Page. I am Thunder Carver. This name represents the power a
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
         <br>GraphQL
     </td>
+    <td align="center" width="128">
+      <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="icon" width="65" height="65" />
+      <br>Anaconda
+    </td>
   </tr>
   
   <tr>
@@ -55,15 +62,53 @@ Welcome to my GitHub Page. I am Thunder Carver. This name represents the power a
         <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
         <br>GitLab
     </td>
+    <!--   
     <td align="center" width="128">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
         <br>Kubernetes
     </td>
+    -->
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img src="https://img.shields.io/badge/markdown-%23000000.svg" width="65" height="65" />
+      <br>Markdown
+    </td>
+    <td align="center" width="128">
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg" width="65" height="65"/>
+      <br>PyTorch
+    </td>
+    <td align="center" width="128">
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg" width="65" height="65"/>
+      <br>Matplotlib
+    </td>
+    <td align="center" width="128">
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" width="65" height="65"/>
+      <br>Numpy
+    </td>
+    <td align="center" width="128">
+      <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg" width="65" height="65"/>
+      <br>Scipy
+    </td>
   </tr>
 </table>
  
+ 
+## Resource where I learn knowledge
+> good website for hands on
+
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
+
+
+
 ##  Activity Graph 📈
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ThunderCarver's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ThunderCarver&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+
+
 
 
 
