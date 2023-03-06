@@ -31,23 +31,8 @@ Welcome to my GitHub Page. ThunderCarver represents the power and elegance and I
         <br>GraphQL
     </td>
     <td align="center" width="128">
-      <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="icon" width="65" height="65" />
-      <br>Anaconda
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="128"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-        <br>Git
-    </td>
-    <td align="center" width="128">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
         <br>Github
-    </td>
-    <td align="center"  width="128">
-        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
-        <br>GitLab
     </td>
     <!--   
     <td align="center" width="128">
@@ -57,6 +42,14 @@ Welcome to my GitHub Page. ThunderCarver represents the power and elegance and I
     -->
   </tr>
   <tr>
+    <td align="center" width="128"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+     <td align="center" width="128">
+      <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="icon" width="65" height="65" />
+      <br>Anaconda
+    </td>
     <td align="center" width="128">
       <img src="https://img.shields.io/badge/markdown-%23000000.svg" width="65" height="65" />
       <br>Markdown
@@ -77,6 +70,12 @@ Welcome to my GitHub Page. ThunderCarver represents the power and elegance and I
       <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg" width="65" height="65"/>
       <br>Scipy
     </td>
+    <!--
+    <td align="center"  width="128">
+        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
+        <br>GitLab
+    </td>
+    -->
   </tr>
 </table>
 
