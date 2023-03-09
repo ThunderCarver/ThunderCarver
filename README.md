@@ -22,18 +22,22 @@ Welcome to my GitHub Page. ThunderCarver represents the power and elegance and I
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
         <br>Docker
     </td>
+    <!--
     <td align="center" width="128">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
         <br>C++
     </td>
+    -->
     <td align="center" width="128">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
         <br>GraphQL
     </td>
+    <!--
     <td align="center" width="128">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
         <br>Github
     </td>
+    -->
     <!--   
     <td align="center" width="128">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
