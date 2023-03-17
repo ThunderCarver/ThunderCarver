@@ -1,13 +1,12 @@
 
 <img src="https://github.com/ThunderCarver/ThunderCarver/blob/main/header.png">
 
+<!--
+Welcome to my GitHub Page. ThunderCarver represents the power and elegance and I use "thunder" to create my world.  As a computer engineering student, I learn new things about programming and am interested in sharing ideas with others, I am currently studying deep learning and trying to find more fun in this field. -->
 
-Welcome to my GitHub Page. ThunderCarver represents the power and elegance and I use "thunder" to create my world.  As a computer engineering student, I learn new things about programming and am interested in sharing ideas with others, I am currently studying deep learning and trying to find more fun in this field. 
 
+## Tools and Technologies I work on 
 
-## tools and technologies I am familiar with 
-
-> Tools and technologies that I have worked with
 <table>
   <tr>
     <td align="center" width="128">
