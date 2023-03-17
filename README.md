@@ -84,7 +84,8 @@ Welcome to my GitHub Page. ThunderCarver represents the power and elegance and I
 </table>
 
 ## Contribution
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThunderCarver&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ThunderCarver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThunderCarver&count_private=true&show_icons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderCarver&langs_count=8&layout=compact&hide=matlab)]()
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ThunderCarver&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true"/>
