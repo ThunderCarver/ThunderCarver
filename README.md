@@ -86,11 +86,13 @@ Welcome to my GitHub Page. ThunderCarver represents the power and elegance and I
 [![ThunderCarver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThunderCarver&count_private=true&show_icons=true)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderCarver&langs_count=8&layout=compact&)]()
 
+<!--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ThunderCarver&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true"/>
 </a>
+-->
 
-
+[![ThunderCarver's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThunderCarver&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
