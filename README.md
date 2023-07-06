@@ -84,7 +84,7 @@ Welcome to my GitHub Page. ThunderCarver represents the power and elegance and I
 
 ## Contribution
 [![ThunderCarver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThunderCarver&count_private=true&show_icons=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderCarver&langs_count=8&layout=compact&)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderCarver&hide=MATLAB&langs_count=8&layout=compact&)]()
 
 <!--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
