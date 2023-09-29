@@ -81,7 +81,7 @@ Welcome to my GitHub Page. ThunderCarver represents the power and elegance and I
 </table>
 
 ## Contribution
-[![ThunderCarver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThunderCarver&count_private=true&show_icons=true&custom_title=ThunderCarver's_Stats&include_all_commits=true&theme=buefy&line_height=29)]()
+[![ThunderCarver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThunderCarver&count_private=true&show_icons=true&custom_title=ThunderCarver's%20%Stats&include_all_commits=true&theme=buefy&line_height=29)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunderCarver&hide=MATLAB&langs_count=8&layout=donut&)]()
 
 <!--
